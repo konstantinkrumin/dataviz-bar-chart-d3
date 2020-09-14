@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dataviz-bar-chart-d3/static/css/main.5a3b1b6c.chunk.css",
+    "main.js": "/dataviz-bar-chart-d3/static/js/main.10056b65.chunk.js",
+    "main.js.map": "/dataviz-bar-chart-d3/static/js/main.10056b65.chunk.js.map",
+    "runtime-main.js": "/dataviz-bar-chart-d3/static/js/runtime-main.2451bca3.js",
+    "runtime-main.js.map": "/dataviz-bar-chart-d3/static/js/runtime-main.2451bca3.js.map",
+    "static/js/2.9ab7c2ac.chunk.js": "/dataviz-bar-chart-d3/static/js/2.9ab7c2ac.chunk.js",
+    "static/js/2.9ab7c2ac.chunk.js.map": "/dataviz-bar-chart-d3/static/js/2.9ab7c2ac.chunk.js.map",
+    "index.html": "/dataviz-bar-chart-d3/index.html",
+    "precache-manifest.6e62cdcadef90c3c2fe053e2a0985eb0.js": "/dataviz-bar-chart-d3/precache-manifest.6e62cdcadef90c3c2fe053e2a0985eb0.js",
+    "service-worker.js": "/dataviz-bar-chart-d3/service-worker.js",
+    "static/css/main.5a3b1b6c.chunk.css.map": "/dataviz-bar-chart-d3/static/css/main.5a3b1b6c.chunk.css.map",
+    "static/js/2.9ab7c2ac.chunk.js.LICENSE.txt": "/dataviz-bar-chart-d3/static/js/2.9ab7c2ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2451bca3.js",
+    "static/js/2.9ab7c2ac.chunk.js",
+    "static/css/main.5a3b1b6c.chunk.css",
+    "static/js/main.10056b65.chunk.js"
+  ]
+}
