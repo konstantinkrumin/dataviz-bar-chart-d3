@@ -1,0 +1,40 @@
+@import 'variables';
+@import 'tooltip';
+
+/* MAIN */
+body {
+  background-color: $bg-color;
+  font-family: $font;
+}
+
+svg {
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  box-shadow: 0 0 10px 10px $box-shadow-color;
+}
+
+.graph { width: 90%; }
+
+#title, 
+#yAxis-label { text-anchor: middle; }
+
+#title {
+  font-size: $font-title;
+  font-weight: bold;
+}
+
+#yAxis-label {
+  fill: black;
+  font-size: $font-axis-labels;
+}
+
+.bar { 
+  fill: $accent-color; 
+
+  &:hover { fill: white; }
+}

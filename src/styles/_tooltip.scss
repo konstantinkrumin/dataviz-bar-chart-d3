@@ -1,0 +1,11 @@
+@import 'variables';
+
+/* TOOLTIP */
+#tooltip {
+  position: relative;
+  width: 80px;
+  border: 1px solid $tooltip-border-color;
+  border-radius: 10px;
+  background: $tooltip-bg-color;
+  padding: 2%;
+}
