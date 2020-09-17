@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd097a14c0f03968115219d5bd7b4326",
+    "revision": "5612e0044d8b1e8ae1f2a599a68b22c0",
     "url": "/dataviz-bar-chart-d3/index.html"
   },
   {
